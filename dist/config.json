@@ -4,13 +4,15 @@
   "name": "Yuki Kondo",
   "userimg": "https://avatars.githubusercontent.com/u/62691917?v=4",
   "sort": "created",
-  "order": "asc",
+  "order": "desc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
-   "all"
+   "owner"
   ],
-  "twitter": "youkey_11",
-  "linkedin": "Yuki"
+  "twitter": "@youkey_11",
+  "linkedin": "Yuki Kondo",
+  "medium": null,
+  "dribbble": null
  }
 ]
