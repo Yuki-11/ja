@@ -1,0 +1,20 @@
+I"O<link type="application/atom+xml" rel="alternate" href="https://yuki-11.github.io/feed.xml" title="Yuki Kondo" />
+
+
+<link rel="shortcut icon"    href="/assets/icons/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/icons/icon-192x192.png">
+
+<link rel="manifest" href="/assets/site.webmanifest">
+
+<link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="dns-prefetch" href="https://fonts.gstatic.com">
+
+
+
+<link rel="preload" href="/assets/img/swipe.svg" as="image" id="_hrefSwipeSVG">
+
+
+
+
+
+<link rel="dns-prefetch" href="https://Yuki Kondo.disqus.com" id="_hrefDisqus">
+:ET
