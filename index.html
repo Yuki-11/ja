@@ -10,7 +10,7 @@ hide_image: false
 cover: true
 ---
 
-<script>
+<!-- <script>
   window.name = "None"
   function reloadCheck()
   {
@@ -26,4 +26,11 @@ cover: true
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Cache-Control" content="no-cache">
   
-<meta http-equiv="refresh" content="2; URL=">
+<meta http-equiv="refresh" content="2; URL="> -->
+<script type = "text/javascript">
+if（location.href.indexOf（ 'reload'）==-1）
+
+{
+    location.href = location.href + '？reload';
+} 
+</script>
