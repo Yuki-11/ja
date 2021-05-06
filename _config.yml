@@ -18,10 +18,10 @@ repository: Yuki-11/Yuki-11.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  "en"
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Yuki Kondo
+title:                近藤　佑樹 <br> Yuki Kondo
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -30,7 +30,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:  Senior in college <br> Intelligent Information Media Lab <br> Toyota Technological Institute 
+tagline:  Computer Vision Researcher <br> Senior in college <br> Intelligent Information Media Lab <br> Toyota Technological Institute 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
@@ -67,15 +67,15 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             Education
+  - title:             教育 / Education 
     url:               /education/
-  - title:             Profession
+  - title:             職歴 / Profession 
     url:               /profession/
-  - title:             Activity
+  - title:             活動歴 / Activity 
     url:               /activity/
   # - title:             About
   #   url:               /about/
-  - title:             Biography
+  - title:             略歴 / Biography 
     url:               /biography/
   - title:             Skills
     url:               /skills/  
@@ -365,6 +365,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-polyglot
 
 
 # SEO Tag
@@ -452,3 +453,10 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+# Jekyll polyglot
+# ---------------------------------------------------------------------------------------
+languages: ['ja', 'en']
+default_lang: 'en'
+exclude_from_localization: ['javascript', 'images', 'css']
+# parallel_localization: false

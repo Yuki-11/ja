@@ -1,0 +1,1 @@
+{% include_relative common/folder_structure.md % }
