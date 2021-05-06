@@ -67,22 +67,22 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             Education 
+  - title:             学歴 
     url:               /education/
-  - title:             Profession 
+  - title:             職歴 
     url:               /profession/
-  - title:             Activity 
+  - title:             活動歴 
     url:               /activity/
   # - title:             About
   #   url:               /about/
-  - title:             Biography 
+  - title:             来歴 
     url:               /biography/
-  - title:             Skills
+  - title:             スキル
     url:               /skills/  
-  - title:             Papers
+  - title:             論文
     url:               /papers/    
-  - title:             Language ; Japanese
-    url:               /language_ja/  
+  - title:             言語 ; English
+    url:               https://yuki-11.github.io/ 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
