@@ -1,1 +1,1 @@
-Sitemap: https://github.com/pages/Yuki-11/sitemap.xml
+Sitemap: /sitemap.xml
