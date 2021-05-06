@@ -109,7 +109,7 @@ Powered by Hydejack v9.1.4 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2021-05-07T00:19:29+09:00',
+    INDEX_KEY: 'index--2021-05-07T00:23:03+09:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -147,20 +147,20 @@ Left here for reference, feel free to delete.
 -->
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
 <script>window.GET_CLAPS_API = 'https://worker.getclaps.dev'</script>
-<script type="text/javascript">
-  function reloadCheck()
-  {
-  if (window.name != "reloadFlag")
-  {
-  alert("リロードしました");
-  location.reload();
-  window.name = "reloadFlag";
-  }
-  }
-  </script>
-  <script>reloadCheck()</script>
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Cache-Control" content="no-cache">
+<script>
+function reloadCheck()
+{
+if (window.name != "reloadFlag")
+{
+alert("リロードしました");
+location.reload(True);
+window.name = "reloadFlag";
+}
+}
+</script>
+<script>reloadCheck()</script>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
 
 <script type="module">
   const ppiData = window._ppiData = fetch('https://hydejack-ppi.qwtel.workers.dev', { mode: 'cors'}).then(res => res.json()).catch(() => ({}));
