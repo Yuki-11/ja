@@ -4,21 +4,6 @@ Left here for reference, feel free to delete.
 -->
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
 <script>window.GET_CLAPS_API = 'https://worker.getclaps.dev'</script>
-<script>
-window.name = "None"
-function reloadCheck()
-{
-if (window.name != "reloadFlag")
-{
-alert("リロードしました");
-location.reload(True);
-window.name = "reloadFlag";
-}
-}
-</script>
-<script>reloadCheck()</script>
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache">
 
 <script type="module">
   const ppiData = window._ppiData = fetch('https://hydejack-ppi.qwtel.workers.dev', { mode: 'cors'}).then(res => res.json()).catch(() => ({}));

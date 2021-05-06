@@ -10,4 +10,20 @@ hide_image: false
 cover: true
 ---
 
-<meta http-equiv="Cache-Control" content="no-cache">
+<script>
+  window.name = "None"
+  function reloadCheck()
+  {
+  if (window.name != "reloadFlag")
+  {
+  alert("リロードしました");
+  location.reload(True);
+  window.name = "reloadFlag";
+  }
+  }
+  </script>
+  <script>reloadCheck()</script>
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  
+<meta http-equiv="refresh" content="2; URL=">
