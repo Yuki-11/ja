@@ -13,7 +13,7 @@ repository: Yuki-11/Yuki-11.github.io
 # baseurl:               '/hydejack-starter-kit'
 
 
-# General settings
+# General settings 
 # ---------------------------------------------------------------------------------------
 
 # Language of your content in 2-letter code, e.g.: en, de.
@@ -21,7 +21,7 @@ repository: Yuki-11/Yuki-11.github.io
 lang:                  "en"
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                近藤　佑樹 <br> Yuki Kondo
+title:                Yuki Kondo
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -67,20 +67,22 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             教育 / Education 
+  - title:             Education 
     url:               /education/
-  - title:             職歴 / Profession 
+  - title:             Profession 
     url:               /profession/
-  - title:             活動歴 / Activity 
+  - title:             Activity 
     url:               /activity/
   # - title:             About
   #   url:               /about/
-  - title:             略歴 / Biography 
+  - title:             Biography 
     url:               /biography/
   - title:             Skills
     url:               /skills/  
   - title:             Papers
     url:               /papers/    
+  - title:             Language ; Japanese
+    url:               /language_ja/  
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
