@@ -82,7 +82,7 @@ menu:
   - title:             論文
     url:               /papers/    
   - title:             言語 ; English
-    url:               https://yuki-11.github.io/?1 
+    url:               https://yuki-11.github.io 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
