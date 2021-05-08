@@ -21,7 +21,7 @@ repository: Yuki-11/ja
 lang:                  "ja"
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                近藤　佑樹
+title:                近藤 佑樹
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
