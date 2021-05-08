@@ -43,7 +43,8 @@ permalink: /skills/
 
 ## コーディング
 ----------------------------------------------------------------
-* プログラミング言語： Python, C, VBA, JavaScrip, HTML/CSS, PHP
+* プログラミング言語： Python, C, VBA, JavaScrip, PHP
+* その他の言語： HTML, CSS
 * 深層学習フレームワーク： PyTorch
 * 機械学習フレームワーク： scikit-learn
 * Webアプリケーションフレームワーク： Django
