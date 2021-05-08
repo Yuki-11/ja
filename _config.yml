@@ -130,14 +130,14 @@ google_fonts:          New+Tegomin|Roboto+Slab:700|Noto+Sans+JP:wght@100|Noto+Sa
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  New Tegomin, Noto Sans JP, Roboto Slab, Hiragino Kaku Gothic ProN, Meiryo UI, Yu Gothic, YuGothic, sans-serif
+font:                  Noto Sans JP, New Tegomin, Roboto Slab, Hiragino Kaku Gothic ProN, Meiryo UI, Yu Gothic, YuGothic, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          New Tegomin, Noto Sans JP, Roboto Slab, Hiragino Kaku Gothic ProN, Meiryo UI, Yu Gothic, YuGothic, sans-serif
+font_heading:          Noto Sans JP, New Tegomin,  Roboto Slab, Hiragino Kaku Gothic ProN, Meiryo UI, Yu Gothic, YuGothic, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code:             New Tegomin, Noto Sans JP, Roboto Slab, Fira Code, Menlo, Monaco, Consolas, monospace;
+font_code:             Noto Sans JP, New Tegomin,  Roboto Slab, Fira Code, Menlo, Monaco, Consolas, monospace;
 
 defaults:
   # You can use this to provide a default accent color and background for
