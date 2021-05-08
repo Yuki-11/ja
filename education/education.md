@@ -28,17 +28,24 @@ permalink: /education/
 
 ## 2016年2月
 ----------------------------------------------------------------
-* [トヨタ工業学園 高等部]{:.heading.flip-title} **卒業**
+* [トヨタ工業学園]{:.heading.flip-title} **高等部 卒業**
 
 ## 2016年3月
 ----------------------------------------------------------------
 * [科学技術学園高等学校豊田校]{:.heading.flip-title} **卒業**
 
+## 2018年4月 - 
+----------------------------------------------------------------
+* [豊田工業大学]{:.heading.flip-title} **工学部 在学中**<br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
 
 
 
-[トヨタ工業学園 高等部]: http://www.toyota.co.jp/company/gakuen/index-ja.html
+
+[トヨタ工業学園]: http://www.toyota.co.jp/company/gakuen/index-ja.html
 [科学技術学園高等学校豊田校]: https://tsushin.kagiko.ed.jp/cooperation/district/
+[豊田工業大学]: https://www.toyota-ti.ac.jp/
+[浮田宗伯教授]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/index-j.html
+[知能情報メディア研究室]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-j.html
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}

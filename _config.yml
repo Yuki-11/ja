@@ -30,7 +30,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:  <a href='https://www.toyota-ti.ac.jp/'>豊田工業大学</a> <br> <a href='https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-j.html'>知能情報メディア研究室</a> <br> 学部4年 <br> 研究：コンピュータビジョン / 深層学習 
+tagline:  <a href='https://www.toyota-ti.ac.jp/'>豊田工業大学 工学部</a> <br> <a href='https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-j.html'>知能情報メディア研究室</a> <br> 学部4年 <br> 研究：コンピュータビジョン / 深層学習 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
