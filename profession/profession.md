@@ -40,7 +40,7 @@ permalink: /profession/
 
 ## Apr. 2021 -
 ----------------------------------------------------------------
-* [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} **Teaching Assistant**,  **at** 
+* [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} **Teaching Assistant** 
 
 [トヨタ自動車株式会社 学園生]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
 [トヨタ自動車株式会社]: https://global.toyota/
