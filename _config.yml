@@ -34,7 +34,7 @@ tagline:  <a href='https://www.toyota-ti.ac.jp/'>豊田工業大学</a> <br> <a 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [近藤，佑樹，豊田工業大学，知能情報メディア研究室，深層学習，近藤　佑樹，コンピュータビジョン]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -75,7 +75,7 @@ menu:
     url:               /activity/
   # - title:             About
   #   url:               /about/
-  - title:             来歴 
+  - title:             略歴 
     url:               /biography/
   - title:             スキル
     url:               /skills/  

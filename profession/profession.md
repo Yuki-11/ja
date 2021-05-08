@@ -42,7 +42,7 @@ permalink: /profession/
 ----------------------------------------------------------------
 * [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} **Teaching Assistant** 
 
-[トヨタ自動車株式会社 学園生]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
+[トヨタ自動車株式会社 学園生]: http://www.toyota.co.jp/company/gakuen/index.html
 [トヨタ自動車株式会社]: https://global.toyota/
 [知能情報メディア研究室]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-ja.html
 [豊田工業大学]: https://www.toyota-ti.ac.jp/
