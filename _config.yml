@@ -80,7 +80,9 @@ menu:
   - title:             スキル
     url:               /skills/  
   - title:             論文
-    url:               /papers/    
+    url:               /papers/
+  - title:             ブログ
+    url:               /blog/     
   - title:             English version
     url:               https://yuki-11.github.io 
 
