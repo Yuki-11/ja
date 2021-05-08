@@ -10,9 +10,9 @@ slug: proffesion
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured 
+  職歴
 
-# hide_description: true
+hide_description: true
 # (Optional) You can disable grouping posts by date.
 no_groups: true
 
@@ -26,11 +26,11 @@ permalink: /profession/
 
 {:.note}
 
-## 2012年4月 - 2015年3月
+## 2013年4月 - 2016年2月
 ----------------------------------------------------------------
 * [トヨタ自動車株式会社 学園生]{:.heading.flip-title} 
 
-## 2015年3月 -
+## 2016年2月 -
 ----------------------------------------------------------------
 * [トヨタ自動車株式会社]{:.heading.flip-title} **技能員**
 
@@ -38,7 +38,7 @@ permalink: /profession/
 ----------------------------------------------------------------
 * [豊田工業大学]{:.heading.flip-title} [知能情報メディア研究室]{:.heading.flip-title} **アルバイト**
 
-## Apr. 2021 -
+## 2021年4月 -
 ----------------------------------------------------------------
 * [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} **Teaching Assistant** 
 

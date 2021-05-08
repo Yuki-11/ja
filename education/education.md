@@ -10,9 +10,9 @@ slug: education
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured 
+  学歴
 
-# hide_description: true
+hide_description: true
 # (Optional) You can disable grouping posts by date.
 no_groups: true
 
@@ -26,11 +26,11 @@ permalink: /education/
 
 {:.note}
 
-## 2015年2月
+## 2016年2月
 ----------------------------------------------------------------
 * [トヨタ工業学園 高等部]{:.heading.flip-title} **卒業**
 
-## 2015年3月
+## 2016年3月
 ----------------------------------------------------------------
 * [科学技術学園高等学校豊田校]{:.heading.flip-title} **卒業**
 
