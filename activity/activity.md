@@ -12,7 +12,7 @@ slug: activity
 description: >
   This is a featured 
 
-# hide_description: true
+hide_description: true
 # (Optional) You can disable grouping posts by date.
 no_groups: true
 

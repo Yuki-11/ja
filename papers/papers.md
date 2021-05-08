@@ -12,7 +12,7 @@ slug: papers
 description: >
   This is a featured 
 
-# hide_description: true
+hide_description: true
 # (Optional) You can disable grouping posts by date.
 no_groups: true
 
@@ -25,6 +25,7 @@ permalink: /papers/
 
 
 {:.note}
+
 
 <!-- ## Apr. 2012 - Feb. 2015
 ----------------------------------------------------------------
