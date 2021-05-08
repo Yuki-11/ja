@@ -26,19 +26,19 @@ permalink: /education/
 
 {:.note}
 
-## Feb. 2015
+## 2015年2月
 ----------------------------------------------------------------
-* **Graduated from**  [Youth corse, Toyota Technical Skills Academy]{:.heading.flip-title} 
+* [トヨタ工業学園 高等部]{:.heading.flip-title} **卒業**
 
-## Mar. 2015
+## 2015年3月
 ----------------------------------------------------------------
-* **Graduated from** [Science and Technology Academy High School at Toyota]{:.heading.flip-title} 
+* [科学技術学園高等学校豊田校]{:.heading.flip-title} **卒業**
 
 
 
 
-[Youth corse, Toyota Technical Skills Academy]: http://www.toyota.co.jp/company/gakuen/index.html
-[Science and Technology Academy High School at Toyota]: https://tsushin.kagiko.ed.jp/cooperation/district/
+[トヨタ工業学園 高等部]: http://www.toyota.co.jp/company/gakuen/index-ja.html
+[科学技術学園高等学校豊田校]: https://tsushin.kagiko.ed.jp/cooperation/district/
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}

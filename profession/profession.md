@@ -26,28 +26,28 @@ permalink: /profession/
 
 {:.note}
 
-## Apr. 2012 - Feb. 2015
+## 2012年4月 - 2015年3月
 ----------------------------------------------------------------
-* [Youth, Toyota Motor Corporation]{:.heading.flip-title} 
+* [トヨタ自動車株式会社 学園生]{:.heading.flip-title} 
 
-## Mar. 2015 -
+## 2015年3月 -
 ----------------------------------------------------------------
-* **Technician**, [Toyota Motor Corporation]{:.heading.flip-title} 
+* [トヨタ自動車株式会社]{:.heading.flip-title} **技能員**
 
-## Nov. 2019 -
+## 2019年11月 -
 ----------------------------------------------------------------
-* **Part time jobs**, [Intelligent Information Media Lab]{:.heading.flip-title} **at** [Toyota Technological Institute]{:.heading.flip-title}
+* [豊田工業大学]{:.heading.flip-title} [知能情報メディア研究室]{:.heading.flip-title} **アルバイト**
 
 ## Apr. 2021 -
 ----------------------------------------------------------------
-* **Teaching Assistant**, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} **at** [University of Tokyo]{:.heading.flip-title} 
+* [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} **Teaching Assistant**,  **at** 
 
-[Youth, Toyota Motor Corporation]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
-[Toyota Motor Corporation]: https://global.toyota/
-[Intelligent Information Media Lab]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html
-[Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
-[Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
-[University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
+[トヨタ自動車株式会社 学園生]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
+[トヨタ自動車株式会社]: https://global.toyota/
+[知能情報メディア研究室]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-ja.html
+[豊田工業大学]: https://www.toyota-ti.ac.jp/
+[グローバル消費インテリジェンス寄附講座(GCI)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
+[東京大学]: https://www.u-tokyo.ac.jp/ja/index.html
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}
