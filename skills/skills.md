@@ -31,6 +31,8 @@ permalink: /skills/
 * 情報処理推進機構 基本情報技術者
 * 日本ディープラーニング協会(JDLA) ジェネラリスト(G)検定 2020#3
 * 日本ディープラーニング協会(JDLA) エンジニア(E)資格 2021#1
+* FUJITSU Certified Professional AI
+* FUJITSU Certified Master AI
 * 技能士補（第１種自動車系自動車整備科）
 * 危険物取扱者乙種4類
 
