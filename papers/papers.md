@@ -29,7 +29,7 @@ permalink: /papers/
 * Yuki Kondo, Norimichi Ukita,<br>
 &nbsp;Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution,<br>
 &nbsp;Proc. of the 17th International Conference on Machine Vision Applications ([MVA2021]{:.heading.flip-title}) ,<br>
-&nbsp;July, 2021. (oral acceptance rate = 20.0%)
+&nbsp;July, 2021. (oral acceptance rate = 20.0%)<br>
 &nbsp;[<a href='#'>pdf (coming soon...)</a>], [<a href='#'>code (coming soon...)</a>]
 
 <!-- ## Apr. 2012 - Feb. 2015
