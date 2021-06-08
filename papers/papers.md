@@ -26,6 +26,11 @@ permalink: /papers/
 
 {:.note}
 
+* Yuki Kondo, Norimichi Ukita,<br>
+&nbsp;Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution{:.heading.flip-title} ,<br>
+&nbsp;Proc. of the 17th International Conference on Machine Vision Applications ([MVA2021]){:.heading.flip-title} ,<br>
+&nbsp;July, 2021. (oral acceptance rate = 20.0%)
+&nbsp;[<a href='#'>pdf (coming soon...)</a>], [<a href='#'>code (coming soon...)</a>]
 
 <!-- ## Apr. 2012 - Feb. 2015
 ----------------------------------------------------------------
@@ -43,7 +48,8 @@ permalink: /papers/
 ----------------------------------------------------------------
 * **Teaching Assistant**, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} **at** [University of Tokyo]{:.heading.flip-title}  -->
 
-[Youth, Toyota Motor Corporation]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
+[Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution]: #
+[MVA2021]: http://www.mva-org.jp/mva2021/
 [Toyota Motor Corporation]: https://global.toyota/
 [Intelligent Information Media Lab]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html
 [Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
