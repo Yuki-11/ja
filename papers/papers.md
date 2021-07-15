@@ -30,7 +30,7 @@ permalink: /papers/
 &nbsp;Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution,<br>
 &nbsp;Proc. of the 17th International Conference on Machine Vision Applications ([MVA2021]{:.heading.flip-title}),<br>
 &nbsp;July, 2021. (oral acceptance rate = 19%)
-&nbsp;[<a href='#'>pdf (coming soon...)</a>], [<a href='#'>code (coming soon...)</a>]
+&nbsp;[<a href='#'>pdf (coming soon...)</a>], [<a href='https://github.com/Yuki-11/CSSR'>code</a>]
 
 <!-- ## Apr. 2012 - Feb. 2015
 ----------------------------------------------------------------
