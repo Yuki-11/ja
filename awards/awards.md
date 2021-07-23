@@ -32,7 +32,7 @@ permalink: /awards/
 
 
 
-[東京大学 グローバル消費インテリジェンス寄附講座(GCI) Winter 2020 優秀修了生]: http://www.toyota.co.jp/company/gakuen/index-ja.html
+[東京大学 グローバル消費インテリジェンス寄附講座(GCI) Winter 2020 優秀修了生]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}
