@@ -41,7 +41,7 @@ permalink: /education/
 
 
 
-[トヨタ工業学園]: http://www.toyota.co.jp/company/gakuen/index-ja.html
+[トヨタ工業学園]: http://www.toyota.co.jp/company/gakuen/index.html
 [科学技術学園高等学校豊田校]: https://tsushin.kagiko.ed.jp/cooperation/district/
 [豊田工業大学]: https://www.toyota-ti.ac.jp/
 [浮田宗伯教授]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/index-j.html
