@@ -81,6 +81,8 @@ menu:
     url:               /skills/  
   - title:             論文
     url:               /papers/
+  - title:             受賞
+    url:               /awards/
   - title:             ブログ
     url:               /blog/     
   - title:             English version
