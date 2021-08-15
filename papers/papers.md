@@ -35,7 +35,7 @@ permalink: /papers/
 &nbsp;[<a href='http://www.mva-org.jp/Proceedings/2021/papers/O1-1-2.pdf'>pdf</a>], [<a href='https://github.com/Yuki-11/CSSR'>code</a>]
 
 
-[Best practical paper award]: http://www.mva-org.jp/archives.BestPracticalPaperAward.php
+
 
 <!-- ## Apr. 2012 - Feb. 2015
 ----------------------------------------------------------------
@@ -60,7 +60,7 @@ permalink: /papers/
 [Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
 [Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
 [University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
-
+[Best practical paper award]: http://www.mva-org.jp/archives.BestPracticalPaperAward.php
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}
 
