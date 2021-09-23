@@ -33,7 +33,9 @@ permalink: /papers/
 &nbsp;Proc. of the 17th International Conference on Machine Vision Applications ([MVA2021]{:.heading.flip-title}),<br>
 &nbsp;July, 2021. (oral acceptance rate = 19%). [Best practical paper award]{:.heading.flip-title}
 &nbsp;[<a href='http://www.mva-org.jp/Proceedings/2021/papers/O1-1-2.pdf'>pdf</a>], [<a href='https://github.com/Yuki-11/CSSR'>code</a>]
-
+<div style="text-align: center">
+  <img src="https://raw.githubusercontent.com/Yuki-11/CSSR/main/imgs/results.png" width="70%" alt="CSSR_result">
+</div>
 
 
 

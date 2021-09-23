@@ -38,15 +38,20 @@ permalink: /profession/
 ----------------------------------------------------------------
 * [豊田工業大学]{:.heading.flip-title} [知能情報メディア研究室]{:.heading.flip-title} **アルバイト**
 
-## 2021年4月 -
+## 2021年4月 - 9月
 ----------------------------------------------------------------
-* [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} **Teaching Assistant** 
+* [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI2021 Summer)]{:.heading.flip-title} **Teaching Assistant**
+
+## 2021年9月 -
+----------------------------------------------------------------
+* [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI2021 Winter)]{:.heading.flip-title} **講師**
 
 [トヨタ自動車株式会社 学園生]: http://www.toyota.co.jp/company/gakuen/index.html
 [トヨタ自動車株式会社]: https://global.toyota/
 [知能情報メディア研究室]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-ja.html
 [豊田工業大学]: https://www.toyota-ti.ac.jp/
-[グローバル消費インテリジェンス寄附講座(GCI)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
+[グローバル消費インテリジェンス寄附講座(GCI2021 Summer)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
+[グローバル消費インテリジェンス寄附講座(GCI2021 Winter)]: https://gci.t.u-tokyo.ac.jp/gci-2021-winter/
 [東京大学]: https://www.u-tokyo.ac.jp/ja/index.html
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
