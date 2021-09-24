@@ -32,6 +32,7 @@ permalink: /awards/
 <div style="text-align: center; box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
   <img src="/assets/img/blog/awards/GCI2020Winter_award.png" width="70%" alt="GCI2020Winter excellent graduate">
 </div>
+<br>
 
 * [Best practical paper award in the 17th International Conference on Machine Vision Applications (MVA2021)]{:.heading.flip-title} . ["Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution"]{:.heading.flip-title}
 <div style="text-align: center; box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
