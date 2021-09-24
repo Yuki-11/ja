@@ -29,9 +29,12 @@ permalink: /awards/
 ## 2020年
 ----------------------------------------------------------------
 * [東京大学 グローバル消費インテリジェンス寄附講座(GCI) Winter 2020 優秀修了生]{:.heading.flip-title}
+<div style="text-align: center; box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="/assets/img/blog/awards/GCI2020Winter_award.JPG" width="70%" alt="GCI2020Winter excellent graduate">
+</div>
 
 * [Best practical paper award in the 17th International Conference on Machine Vision Applications (MVA2021)]{:.heading.flip-title} . ["Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution"]{:.heading.flip-title}
-<div style="text-align: center">
+<div style="text-align: center; box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
   <img src="/assets/img/blog/awards/MVA2021_award.JPG" width="70%" alt="MVA2021_BPP">
 </div>
 
