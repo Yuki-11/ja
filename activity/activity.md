@@ -26,28 +26,24 @@ permalink: /activity/
 
 {:.note}
 
-<!-- ## Apr. 2012 - Feb. 2015
+## メンバーシップ
 ----------------------------------------------------------------
-* [Youth, Toyota Motor Corporation]{:.heading.flip-title} 
 
-## Mar. 2015 -
-----------------------------------------------------------------
-* **Technician**, [Toyota Motor Corporation]{:.heading.flip-title} 
+### 2017年7月 -
+* 会員: トヨタ技術会
 
-## Nov. 2019 -
-----------------------------------------------------------------
-* **Part time jobs**, [Intelligent Information Media Lab]{:.heading.flip-title} **at** [Toyota Technological Institute]{:.heading.flip-title}
+### 2020年12月 -
+* 会員: [Community of Deep Learning Evangelists(CDLE)]{:.heading.flip-title} 
 
-## Apr. 2021 -
-----------------------------------------------------------------
-* **Teaching Assistant**, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} **at** [University of Tokyo]{:.heading.flip-title}  -->
+### 2021年2月 -
+* サーベイメンバー: [cvpaper.challenge]{:.heading.flip-title} 
 
-[Youth, Toyota Motor Corporation]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
-[Toyota Motor Corporation]: https://global.toyota/
-[Intelligent Information Media Lab]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html
-[Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
-[Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
-[University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
+### 2021年2月 -
+* 会員: [Deep Learning.JP]
+
+[Community of Deep Learning Evangelists(CDLE)]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
+[Deep Learning.JP]: https://deeplearning.jp/
+[cvpaper.challenge]: http://xpaperchallenge.org/cv/
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}
