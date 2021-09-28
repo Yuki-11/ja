@@ -30,7 +30,7 @@ permalink: /activity/
 ----------------------------------------------------------------
 
 ### 2017年7月 -
-* 会員: トヨタ技術会
+* 会員: <b>トヨタ技術会(TES)</b>
 
 ### 2020年12月 -
 * 会員: [Community of Deep Learning Evangelists(CDLE)]{:.heading.flip-title} 
@@ -39,7 +39,7 @@ permalink: /activity/
 * サーベイメンバー: [cvpaper.challenge]{:.heading.flip-title} 
 
 ### 2021年2月 -
-* 会員: [Deep Learning.JP]
+* 会員: [Deep Learning.JP]{:.heading.flip-title} 
 
 [Community of Deep Learning Evangelists(CDLE)]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
 [Deep Learning.JP]: https://deeplearning.jp/
