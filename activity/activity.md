@@ -41,7 +41,7 @@ permalink: /activity/
 ### 2021年2月 -
 * 会員: [Deep Learning.JP]{:.heading.flip-title} 
 
-[Community of Deep Learning Evangelists(CDLE)]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
+[Community of Deep Learning Evangelists(CDLE)]: https://www.cdle.jp/
 [Deep Learning.JP]: https://deeplearning.jp/
 [cvpaper.challenge]: http://xpaperchallenge.org/cv/
 
