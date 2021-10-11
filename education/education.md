@@ -28,8 +28,10 @@ permalink: /education/
 
 ### 2016年2月
 * [トヨタ工業学園]{:.heading.flip-title} **高等部 卒業**
+
 ### 2016年3月
 * [科学技術学園高等学校豊田校]{:.heading.flip-title} **卒業**
+
 ### 2018年4月 - 
 * [豊田工業大学]{:.heading.flip-title} **工学部 在学中**<br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
 
