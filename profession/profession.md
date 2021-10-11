@@ -49,8 +49,8 @@ permalink: /profession/
 ----------------------------------------------------------------
 ### 2021年5月 - 2021年7月
 * **受託元：**[株式会社松尾研究所]{:.heading.flip-title} 
-  * Pix2Pix[(元論文)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf) 教材作成
-  * A2C[(プロジェクトページ)](https://openai.com/blog/baselines-acktr-a2c/) 教材作成
+  * **Pix2Pix** [(元論文)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf) 教材作成
+  * **A2C** [(プロジェクトページ)](https://openai.com/blog/baselines-acktr-a2c/) 教材作成
 
 [トヨタ自動車株式会社 学園生]: http://www.toyota.co.jp/company/gakuen/index.html
 [トヨタ自動車株式会社]: https://global.toyota/
