@@ -32,19 +32,14 @@ permalink: /profession/
 
 ### 2013年4月 - 2016年2月
 * [トヨタ自動車株式会社 学園生]{:.heading.flip-title} 
-
 ### 2016年2月 -
 * [トヨタ自動車株式会社]{:.heading.flip-title} **技能員**
-
 ### 2019年11月 -
 * [豊田工業大学]{:.heading.flip-title} [知能情報メディア研究室]{:.heading.flip-title} **パート**
-
 ### 2021年4月 - 9月
 * [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI2021 Summer)]{:.heading.flip-title} **Teaching Assistant**
-
 ### 2021年9月 -
 * [東京大学]{:.heading.flip-title} [グローバル消費インテリジェンス寄附講座(GCI2021 Winter)]{:.heading.flip-title} **講師**
-
 
 ##  受託業務
 ----------------------------------------------------------------
