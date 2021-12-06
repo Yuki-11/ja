@@ -36,7 +36,7 @@ permalink: /awards/
 
 * [Best practical paper award in the 17th International Conference on Machine Vision Applications (MVA2021)]{:.heading.flip-title} . ["Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution"]{:.heading.flip-title}
 <div style="text-align: center">
-  <img src="/assets/img/blog/awards/MVA2021_award.JPG" width="70%" alt="MVA2021_BPP" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="/assets/img/blog/awards/MVA2021_BPPA2.png" width="70%" alt="MVA2021_BPP" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
 
 [東京大学 グローバル消費インテリジェンス寄附講座(GCI) Winter 2020 優秀修了生]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
