@@ -26,7 +26,7 @@ permalink: /awards/
 
 {:.note}
 
-## 2020年
+## 2021年
 ----------------------------------------------------------------
 * [東京大学 グローバル消費インテリジェンス寄附講座(GCI) Winter 2020 優秀修了生]{:.heading.flip-title}
 <div style="text-align: center">
