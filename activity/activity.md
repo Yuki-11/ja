@@ -32,6 +32,9 @@ permalink: /activity/
 ### 2017年7月 -
 * 会員: <b>トヨタ技術会(TES)</b>
 
+### Sep. 2019 - Nov. 2021
+* 部長 (創設者):　[豊田工業大学]{:.heading.flip-title} [SPARTAN RACE cirle Ares]{:.heading.flip-title}
+
 ### 2020年12月 -
 * 会員: [Community of Deep Learning Evangelists(CDLE)]{:.heading.flip-title} 
 
@@ -80,6 +83,8 @@ permalink: /activity/
 
 
 [Community of Deep Learning Evangelists(CDLE)]: https://www.cdle.jp/
+[SPARTAN RACE cirle Ares]: https://yuki-11.github.io/Ares/
+[豊田工業大学]: https://www.toyota-ti.ac.jp/english/
 [Deep Learning.JP]: https://deeplearning.jp/
 [cvpaper.challenge]: http://xpaperchallenge.org/cv/
 [Flow-Based Kernel Prior With Application to Blind Super-Resolution]: http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/446/
