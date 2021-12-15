@@ -83,7 +83,7 @@ permalink: /activity/
 
 
 [Community of Deep Learning Evangelists(CDLE)]: https://www.cdle.jp/
-[SPARTAN RACE cirle Ares]: https://yuki-11.github.io/Ares/
+[SPARTAN RACE cirle Ares]: https://ares-tti.github.io/
 [豊田工業大学]: https://www.toyota-ti.ac.jp/english/
 [Deep Learning.JP]: https://deeplearning.jp/
 [cvpaper.challenge]: http://xpaperchallenge.org/cv/
