@@ -28,6 +28,7 @@ permalink: /skills/
 
 ## 資格
 ----------------------------------------------------------------
+* <b>情報処理推進機構 応用情報技術者</b>
 * 情報処理推進機構 基本情報技術者
 * 日本ディープラーニング協会(JDLA) ジェネラリスト(G)検定 2020#3
 * 日本ディープラーニング協会(JDLA) エンジニア(E)資格 2021#1
@@ -44,14 +45,22 @@ permalink: /skills/
 * 東京大学 松尾研究室 スプリングセミナー2021：Deep Learning for NLP講座
 * 東京大学 松尾研究室 サマースクール2021: 画像認識
 
-## コーディング
+## コーディング ・ 開発環境
 ----------------------------------------------------------------
 * プログラミング言語： Python, C, VBA, JavaScrip, PHP
 * その他の言語： HTML, CSS
 * 深層学習フレームワーク： PyTorch
 * 機械学習フレームワーク： scikit-learn
+* コンピュータビジョン・ライブラリ: OpenCV-Python
 * Webアプリケーションフレームワーク： Django
 * 仮想化フレームワーク: Docker
+* データベース管理システム: SQLite
+* クラウドコンピューティングサービス: AWS
+* バージョン管理システム： Git, GitHub
+* OS: Linux(Debian)
+* 数値解析ソフトウェア: Matlab
+* ゲームエンジン: Unity
+
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
