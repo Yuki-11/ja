@@ -32,7 +32,7 @@ permalink: /activity/
 ### 2017年7月 -
 * 会員: <b>トヨタ技術会(TES)</b>
 
-### Sep. 2019 - Nov. 2021
+### 2019年9月 - 2021年10月
 * 部長 (創設者):　[豊田工業大学]{:.heading.flip-title} [SPARTAN RACE cirle Ares]{:.heading.flip-title}
 
 ### 2020年12月 -
@@ -91,7 +91,6 @@ permalink: /activity/
 [KOALAnet: Blind Super-Resolution Using Kernel-Oriented Adaptive Local Adjustment]: http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/471/
 [CrackFormer: Transformer Network for Fine-Grained Crack Detection]: http://xpaperchallenge.org/cv/survey/iccv2021_summaries/150/
 [Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective]: http://xpaperchallenge.org/cv/survey/iccv2021_summaries/170/
-
 [Unpaired Image Super-Resolution Using Pseudo-Supervision]: https://www.slideshare.net/DeepLearningJP2016/dlunpaired-image-superresolution-using-pseudosupervision-250714142
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
