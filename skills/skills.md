@@ -53,13 +53,13 @@ permalink: /skills/
 * 機械学習フレームワーク： scikit-learn
 * コンピュータビジョン・ライブラリ: OpenCV-Python
 * Webアプリケーションフレームワーク： Django
-* 仮想化フレームワーク: Docker
-* データベース管理システム: SQLite
-* クラウドコンピューティングサービス: AWS
+* 仮想化フレームワーク： Docker
+* データベース管理システム： SQLite
+* クラウドコンピューティングサービス： AWS
 * バージョン管理システム： Git, GitHub
-* OS: Linux(Debian)
-* 数値解析ソフトウェア: Matlab
-* ゲームエンジン: Unity
+* OS： Linux(Debian)
+* 数値解析ソフトウェア： Matlab
+* ゲームエンジン： Unity
 
 
 <p align="left">
