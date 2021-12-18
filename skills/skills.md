@@ -100,11 +100,6 @@ permalink: /skills/
 * **Teaching Assistant**, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} **at** [University of Tokyo]{:.heading.flip-title}  -->
 
 [Youth, Toyota Motor Corporation]: https://www.toyota-global.com/company/history_of_toyota/75years/data/company_information/personnel/personnel-related_development/academy.html
-[Toyota Motor Corporation]: https://global.toyota/
-[Intelligent Information Media Lab]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html
-[Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
-[Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/gci-2021-summer/
-[University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
 
 <!-- * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 {:.related-posts.faded}
