@@ -33,7 +33,7 @@ permalink: /activity/
 * 会員: <b>トヨタ技術会(TES)</b>
 
 ### 2019年9月 - 2021年10月
-* 部長 (創設者):　[豊田工業大学]{:.heading.flip-title} [SPARTAN RACE cirle Ares]{:.heading.flip-title}
+* 部長 (創設者): [豊田工業大学]{:.heading.flip-title} [SPARTAN RACE cirle Ares]{:.heading.flip-title}
 
 ### 2020年12月 -
 * 会員: [Community of Deep Learning Evangelists(CDLE)]{:.heading.flip-title} 

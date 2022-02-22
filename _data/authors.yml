@@ -8,11 +8,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    近藤 佑樹．1997年生まれ，神奈川県 茅ヶ崎市，箱根町出身．2013年 トヨタ工業学園 高等部 訓練生としてトヨタ自動車株式会社に入社．
+    同年，科学技術学園高等学校豊田校に入学．2016年 トヨタ工業学園および科学技術学園高等学校豊田校を卒業後，
+    技能職としてエンジン開発業務に従事．2018年より豊田工業大学 工学部に社会人学生として派遣，現在休職中(2022年復職予定)．
+    2020年 9月より同校 知能情報メディア研究室 浮田宗伯教授の下で，コンピュータビジョン，深層学習に関する研究に従事．
+    現在，「超解像との統合学習による低解像画像を対象とした欠陥セグメンテーション」をテーマに研究．
 
   # This photo will be used in the about section
   picture:
@@ -31,6 +31,7 @@ author1:
     email:           yuki.kondo.ab@gmail.com
     # rss:             https://<url>/feed.xml
     facebook:        yuki.kondo.ab
+    linkedin:        Yuki Kondo
     atcoder:         youkey11
     # google:          <number>
     # vk:              <username>
