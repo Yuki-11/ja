@@ -39,6 +39,7 @@ permalink: /awards/
 <div style="text-align: center">
   <img src="./iee_tokai_award.jpg" width="50%" alt="IEE tokai award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
+<br>
 
 * <b>派遣企業の会 社会人学生優秀賞</b>
 <div style="text-align: center">
