@@ -26,6 +26,24 @@ permalink: /awards/
 
 {:.note}
 
+## 2022年
+----------------------------------------------------------------
+* [豊田奨学基金賞]{:.heading.flip-title}
+<div style="text-align: center">
+  <img src="/assets/img/blog/awards/toyota_award.jpg" width="70%" alt="Toyota Scholarship Fund Award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+</div>
+<br>
+
+* [電気学会 東海支部長賞]{:.heading.flip-title}
+<div style="text-align: center">
+  <img src="/assets/img/blog/awards/iee_tokai_award.jpg" width="70%" alt="IEE tokai award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+</div>
+
+* [派遣企業の会 社会人学生優秀賞]{:.heading.flip-title}
+<div style="text-align: center">
+  <img src="/assets/img/blog/awards/ad_stu_award.jpg" width="20%" alt="adult student award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+</div>
+
 ## 2021年
 ----------------------------------------------------------------
 * [東京大学 グローバル消費インテリジェンス寄附講座(GCI) Winter 2020 優秀修了生]{:.heading.flip-title}
