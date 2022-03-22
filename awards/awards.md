@@ -30,19 +30,19 @@ permalink: /awards/
 ----------------------------------------------------------------
 * <b>豊田奨学基金賞</b>
 <div style="text-align: center">
-  <img src="./toyota_award.jpg" width="30%" alt="Toyota Scholarship Fund Award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="./toyota_award.jpg" width="50%" alt="Toyota Scholarship Fund Award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
 <br>
 
 * <b>電気学会 東海支部長賞</b>
 <!-- * [電気学会 東海支部長賞]{:.heading.flip-title} -->
 <div style="text-align: center">
-  <img src="./iee_tokai_award.jpg" width="30%" alt="IEE tokai award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="./iee_tokai_award.jpg" width="50%" alt="IEE tokai award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
 
 * <b>派遣企業の会 社会人学生優秀賞</b>
 <div style="text-align: center">
-  <img src="./ad_stu_award.jpg" width="20%" alt="adult student award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="./ad_stu_award.jpg" width="30%" alt="adult student award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
 
 ## 2021年
