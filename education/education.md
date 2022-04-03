@@ -32,9 +32,10 @@ permalink: /education/
 ### 2016年3月
 * [科学技術学園高等学校豊田校]{:.heading.flip-title} **卒業**
 
-### 2018年4月 - 
-* [豊田工業大学]{:.heading.flip-title} **工学部 在学中**<br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
+### 2022年4月
+* [豊田工業大学]{:.heading.flip-title} **工学部 先端工学基礎学科 (主専攻：電子情報分野，副専攻：機械システム分野) 卒業 (主席)** [^1] <br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
 
+<!-- [^1] : GPA 3.  -->
 
 
 
