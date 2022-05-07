@@ -27,7 +27,7 @@ permalink: /education/
 {:.note}
 
 ### Apr. 2018 - Mar. 2022
-* [豊田工業大学]{:.heading.flip-title} **工学部 先端工学基礎学科 (主席)** [^1] <br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
+* [豊田工業大学]{:.heading.flip-title} **工学部 先端工学基礎学科 (主席)** <br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
   * 主専攻：電子情報分野，副専攻：機械システム分野
   * 研究トピック：超解像，欠陥セグメンテーション，マルチタスク，統合学習，高クラス不均衡
 
