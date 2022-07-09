@@ -26,8 +26,18 @@ permalink: /papers/
 
 {:.note}
 
-## 国際会議(査読付き)
+## 国際会議
 ----------------------------------------------------------------
+* Goutam Bhat et al.<br>
+&nbsp;NTIRE 2022 Burst Super-Resolution Challenge,<br>
+&nbsp;Proc. of New Trends in Image Restoration and Enhancement Workshop ([NTIRE2022]{:.heading.flip-title}), [CVPRW2022]{:.heading.flip-title},<br>
+&nbsp;June, 2022.
+&nbsp;[<a href='https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Bhat_NTIRE_2022_Burst_Super-Resolution_Challenge_CVPRW_2022_paper.html'>pdf</a>]
+<div style="text-align: center">
+  <img src="/assets/img/blog/paper/ntire2022_burstsr.png" width="70%" alt="NTIRE2022_burstSR" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+</div>
+
+
 * Yuki Kondo, Norimichi Ukita,<br>
 &nbsp;Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution,<br>
 &nbsp;Proc. of the 17th International Conference on Machine Vision Applications ([MVA2021]{:.heading.flip-title}),<br>
@@ -38,6 +48,16 @@ permalink: /papers/
 </div>
 
 
+## 国内学会
+----------------------------------------------------------------
+* 安江楓真、近藤佑樹、新庄康太、秋田和俊、三星響、吉村雅満、浮田宗伯<br>
+&nbsp;連続撮影されたSPM画像による相互補完的なノイズ除去,<br>
+&nbsp;研究報告コンピュータビジョンとイメージメディア ([CVIM2022]{:.heading.flip-title}),<br>
+&nbsp;2021年5月
+&nbsp;[<a href='https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217840&item_no=1&page_id=13&block_id=8'>pdf</a>]
+<div style="text-align: center">
+  <img src="/assets/img/blog/paper/spm_denoise.png" width="70%" alt="Denoise_result" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+</div>
 
 <!-- ## Apr. 2012 - Feb. 2015
 ----------------------------------------------------------------
@@ -57,6 +77,8 @@ permalink: /papers/
 
 [Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution]: #
 [MVA2021]: http://www.mva-org.jp/mva2021/
+[NTIRE2022]: https://data.vision.ee.ethz.ch/cvl/ntire22/
+[CVPRW2022]: https://cvpr2022.thecvf.com/workshop-schedule
 [Toyota Motor Corporation]: https://global.toyota/
 [Intelligent Information Media Lab]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html
 [Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
