@@ -28,7 +28,7 @@ permalink: /papers/
 
 ## 国際会議
 ----------------------------------------------------------------
-* Goutam Bhat et al.<br>
+* Goutam Bhat et al.,<br>
 &nbsp;NTIRE 2022 Burst Super-Resolution Challenge,<br>
 &nbsp;Proc. of New Trends in Image Restoration and Enhancement Workshop ([NTIRE2022]{:.heading.flip-title}), [CVPRW2022]{:.heading.flip-title},<br>
 &nbsp;June, 2022.
