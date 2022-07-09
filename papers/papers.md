@@ -30,7 +30,7 @@ permalink: /papers/
 ----------------------------------------------------------------
 * Goutam Bhat et al.,<br>
 &nbsp;NTIRE 2022 Burst Super-Resolution Challenge,<br>
-&nbsp;Proc. of New Trends in Image Restoration and Enhancement Workshop ([NTIRE2022]{:.heading.flip-title}), [CVPRW2022]{:.heading.flip-title},<br>
+&nbsp;Proc. of New Trends in Image Restoration and Enhancement Workshop ([NTIRE2022]{:.heading.flip-title}), [CVPRW2022]{:.heading.flip-title},
 &nbsp;June, 2022.
 &nbsp;[<a href='https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Bhat_NTIRE_2022_Burst_Super-Resolution_Challenge_CVPRW_2022_paper.html'>pdf</a>]
 <div style="text-align: center">
@@ -52,7 +52,7 @@ permalink: /papers/
 ----------------------------------------------------------------
 * 安江楓真、近藤佑樹、新庄康太、秋田和俊、三星響、吉村雅満、浮田宗伯<br>
 &nbsp;連続撮影されたSPM画像による相互補完的なノイズ除去,<br>
-&nbsp;研究報告コンピュータビジョンとイメージメディア ([CVIM2022]{:.heading.flip-title}),<br>
+&nbsp;研究報告コンピュータビジョンとイメージメディア ([CVIM2022]{:.heading.flip-title}),
 &nbsp;2021年5月
 &nbsp;[<a href='https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217840&item_no=1&page_id=13&block_id=8'>pdf</a>]
 <div style="text-align: center">
