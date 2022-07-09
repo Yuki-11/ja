@@ -34,7 +34,7 @@ permalink: /papers/
 &nbsp;June, 2022.
 &nbsp;[<a href='https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Bhat_NTIRE_2022_Burst_Super-Resolution_Challenge_CVPRW_2022_paper.html'>pdf</a>]
 <div style="text-align: center">
-  <img src="/assets/img/blog/paper/ntire2022_burstsr.png" width="70%" alt="NTIRE2022_burstSR" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="./ntire2022_burstsr.png" width="70%" alt="NTIRE2022_burstSR" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
 
 
@@ -56,7 +56,7 @@ permalink: /papers/
 &nbsp;2021年5月
 &nbsp;[<a href='https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217840&item_no=1&page_id=13&block_id=8'>pdf</a>]
 <div style="text-align: center">
-  <img src="/assets/img/blog/paper/spm_denoise.png" width="70%" alt="Denoise_result" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
+  <img src="./spm_denoise.png" width="70%" alt="Denoise_result" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
 
 <!-- ## Apr. 2012 - Feb. 2015
