@@ -36,7 +36,7 @@ permalink: /papers/
 <div style="text-align: center">
   <img src="./ntire2022_burstsr.png" width="70%" alt="NTIRE2022_burstSR" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
-
+<br>
 
 * Yuki Kondo, Norimichi Ukita,<br>
 &nbsp;Crack Segmentation for Low-Resolution Images using Joint Learning with Super-Resolution,<br>
