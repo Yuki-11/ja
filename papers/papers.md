@@ -52,7 +52,7 @@ permalink: /papers/
 ----------------------------------------------------------------
 * 安江楓真、近藤佑樹、新庄康太、秋田和俊、三星響、吉村雅満、浮田宗伯<br>
 &nbsp;連続撮影されたSPM画像による相互補完的なノイズ除去,<br>
-&nbsp;研究報告コンピュータビジョンとイメージメディア ([CVIM2022]{:.heading.flip-title}),
+&nbsp;研究報告コンピュータビジョンとイメージメディア ([CVIM230]{:.heading.flip-title}),
 &nbsp;2021年5月
 &nbsp;[<a href='https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217840&item_no=1&page_id=13&block_id=8'>pdf</a>]
 <div style="text-align: center">
@@ -79,6 +79,7 @@ permalink: /papers/
 [MVA2021]: http://www.mva-org.jp/mva2021/
 [NTIRE2022]: https://data.vision.ee.ethz.ch/cvl/ntire22/
 [CVPRW2022]: https://cvpr2022.thecvf.com/workshop-schedule
+[CVIM230]: http://cvim.ipsj.or.jp/index.php?id=cvim230p
 [Toyota Motor Corporation]: https://global.toyota/
 [Intelligent Information Media Lab]: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html
 [Toyota Technological Institute]: https://www.toyota-ti.ac.jp/english/
