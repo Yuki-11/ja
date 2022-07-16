@@ -26,15 +26,21 @@ permalink: /education/
 
 {:.note}
 
-### 2016年2月
-* [トヨタ工業学園]{:.heading.flip-title} **高等部 卒業**
+### Apr. 2018 - Mar. 2022
+* [豊田工業大学]{:.heading.flip-title} **工学部 先端工学基礎学科 (主席)** <br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
+  * 主専攻：電子情報分野，副専攻：機械システム分野
+  * 研究トピック：超解像，欠陥セグメンテーション，マルチタスク，統合学習，高クラス不均衡
 
-### 2016年3月
-* [科学技術学園高等学校豊田校]{:.heading.flip-title} **卒業**
+### Apr. 2013 - Mar. 2016
+* [科学技術学園高等学校豊田校]{:.heading.flip-title}
 
-### 2018年4月 - 
-* [豊田工業大学]{:.heading.flip-title} **工学部 在学中**<br>([知能情報メディア研究室]{:.heading.flip-title} ; [浮田宗伯教授]{:.heading.flip-title} )
+### Apr. 2013 - Feb. 2016
+* [トヨタ工業学園]{:.heading.flip-title} **高等部**
 
+
+
+
+<!-- [^1] : GPA 3.  -->
 
 
 
