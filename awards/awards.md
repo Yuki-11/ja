@@ -35,8 +35,7 @@ permalink: /awards/
 </div>
 <br>
 
-* <b>電気学会 東海支部長賞</b>
-<!-- * [電気学会 東海支部長賞]{:.heading.flip-title} -->
+* [電気学会 東海支部長賞]{:.heading.flip-title}
 <div style="text-align: center">
   <img src="./iee_tokai_award.jpg" width="40%" alt="IEE tokai award" style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5)">
 </div>
